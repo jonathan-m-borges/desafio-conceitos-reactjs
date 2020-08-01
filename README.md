@@ -12,10 +12,10 @@ Permite a listagem, criação e remoção de repositórios utilizando uma Web AP
 
 ## Funcionalidades da aplicação
 
-- **`Listar os repositórios de uma API`**: Deve ser capaz de criar uma lista com o campo **title** de todos os repositórios que estão cadastrados na sua API.
+- **`Listar os repositórios de uma API`**: cria uma lista com o campo **title** de todos os repositórios que estão cadastrados na API.
 
-- **`Adicionar um repositório na API`**: Deve ser capaz de adicionar um novo item na sua API através de um botão com o texto **Adicionar** e, após a criação, deve ser capaz de exibir o nome dele após o cadastro.
+- **`Adicionar um repositório na API`**: adiciona um novo item na API com os dados informanos nos respectivos campos, depois atualiza a listagem com o novo item adicionado.
 
-- **`Remover um repositório da API`**: Para cada item da sua lista, deve possuir um botão com o texto **Remover** que, ao clicar, irá chamar uma função para remover esse item da lista do seu frontend e da sua API.
+- **`Remover um repositório da API`**: em cada item da sua lista, possui um botão com o texto **Remover** que, ao clicar, remove esse item da lista do seu frontend e da API.
 
 **Observação:** A API utilizada neste desafio está implementada em [Desafio Conceitos do NodeJS](https://github.com/jonathan-m-borges/desafio-conceitos-nodejs)
